@@ -1,16 +1,23 @@
-### Hi there 👋
+<div>
+   <h1>É UM PRAZER SUA PRESENÇA!</h1>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montenegrodanni&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div> 
+<div style="display: inline_block;"><br>
+<div>
+ <p>Linguagens mais usadas:</p>
+</div>
+    <img align="center" alt="Michel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Michel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Michel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Michel-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+    <img align="center" alt="Michel-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+</div>
 
-<!--
-**montenegrodanni/montenegrodanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
